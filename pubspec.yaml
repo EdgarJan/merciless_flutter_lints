@@ -1,5 +1,5 @@
 name: merciless_flutter_lints
-version: 0.1.0
+version: 0.1.1
 homepage:
 environment:
   sdk: '>=3.2.5 <4.0.0'
