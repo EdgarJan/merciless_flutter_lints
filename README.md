@@ -1,0 +1,1 @@
+# merciless_flutter_lints
